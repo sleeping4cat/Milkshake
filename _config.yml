@@ -5,9 +5,9 @@ description: "I write about artificial intelligence" # This will show up in plac
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "sleeping4cat@outlook.com"
-twitter_username: "https://twitter.com/sleeping4cat"
-github_username: "https://github.com/sleepingcat4"
-linkedin_username: "https://www.linkedin.com/in/sleepingcat4/"
+twitter_username: "sleeping4cat"
+github_username: "sleepingcat4"
+linkedin_username: "sleepingcat4"
 #facebook_username: username
 #instagram_username: username
 #youtube_username: username
