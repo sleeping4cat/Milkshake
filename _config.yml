@@ -38,5 +38,3 @@ defaults:
     values:
       tags: Other
 
-# The github repo that is to be used for looking up comments
-comments_repo: github.com/sleeping4cat/sleeping-thoughts
