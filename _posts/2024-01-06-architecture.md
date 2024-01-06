@@ -1,5 +1,5 @@
 ---
-tags: Comparative Study
+tags: Comparative-study
 ---
 
 ### Architecture not Data: Future of Artificial Intelligence Research
