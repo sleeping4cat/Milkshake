@@ -1,3 +1,7 @@
+---
+tags: Comparative Study
+---
+
 ### Architecture not Data: Future of Artificial Intelligence Research
 
 Modern Artificial Intelligence is dominated by two schools of thoughts. Firstly, Architecture is the actual innovation factor. Secondly, Datasets are the advance factor. Both have their valid merits and arguments, and their respective groups consist of prominent researchers and individuals in the field. 
